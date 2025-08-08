@@ -220,9 +220,9 @@ This project demonstrates:
 
 ## 📞 Contact
 
-**Your Name** - your.email@example.com
+**Ashmit Sharma** - ashmit.sharma2107@gmail.con
 
-Project Link: [https://github.com/yourusername/vue-weather-dashboard](https://github.com/yourusername/vue-weather-dashboard)
+Project Link: https://ashmitsharmabitsP.github.io/Real-Time-Weather-Dashboard/
 
 ---
 
